@@ -5,7 +5,7 @@
 
 一个为爱发电的Minecraft基岩版市场地图翻译计划。
 
-[官方网站(未完成)](https://github.com/) / [Discord群聊(未完成)](https://discord.com/) / [QQ群组(未完成)](https://qq.com/) / [爱发电](https://afdian.net/@Fanconma)
+[官方网站](https://pixellingual.com/) / [Discord群聊(未完成)](https://discord.com/) / [QQ群组(未完成)](https://qq.com/) / [爱发电](https://afdian.net/@Fanconma)
 </div>
 
 ## 🎇新来乍到
