@@ -8,6 +8,9 @@
 [官方网站](https://pixellingual.com/) / [Discord群聊(未完成)](https://discord.com/) / [QQ群组(未完成)](https://qq.com/) / [爱发电](https://afdian.net/@Fanconma)
 </div>
 
+> [!important]
+> PixelLingual仍处于实验性和搭建阶段，正式投入使用时间可能会在2025年2月左右。
+
 ## 🎇新来乍到
 PixelLingual(像素语匠)是一个Minecraft基岩版的翻译计划，通过**非官方**的进行市场包汉化，让玩家重新体验到语言的亲切😎
 在这里，你可以：
