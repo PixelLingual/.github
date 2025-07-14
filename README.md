@@ -5,7 +5,7 @@
 
 一个为爱发电的Minecraft基岩版市场地图翻译计划。
 
-[官方网站(旧版已弃用，新版未完成)] / [Discord群聊(未完成)] / [QQ群组(未完成)] / [爱发电](https://afdian.com/@Fanconma)
+[官方网站](pling.top) / [Discord群聊]() / [爱发电](https://afdian.com/@Fanconma)
 </div>
 
 ## 🎇新来乍到
@@ -22,8 +22,8 @@ PixelLingual(像素语匠)是一个Minecraft基岩版的翻译计划，通过该
 > 项目创建者目前在时间比较紧张，翻译速度可能很慢，翻译时间随缘，SORRY:((
 
 ## 翻译使用方法
-1. 打开PixelLingual网站[未完工]
-2. 进入详细页面界面下载最新版本(请下载后缀为.mcpack的文件，非.zip)
+1. 打开PixelLingual网站
+2. 进入详细页面界面下载特定的翻译包
 3. 下载成功后，双击文件，选择通过Minecraft打开。
 4. 等待Minecraft导入成功。
 5. 进入对应市场包的创建世界页面，解锁创作者设置(如果需要)，进入资源包选项卡，将对应的汉化包激活并置于顶层。
@@ -38,5 +38,3 @@ todo
 - [ ] 完善项目README文件
 - [ ] 完善Issue
 - [ ] 完善Communication
-- [ ] 网站完善
-- [ ] 购买.com域名
