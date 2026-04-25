@@ -5,7 +5,7 @@
 
 一个为爱发电的Minecraft基岩版市场地图翻译计划。
 
-[官方网站](https://pling.top/) / [Discord群聊]([https://discord.com/](https://discord.gg/7tkYagyRcH)) / [爱发电](https://afdian.net/@Fanconma)
+[官方网站](https://pling.top/) / [Discord群聊](https://discord.gg/7tkYagyRcH) / [爱发电](https://afdian.net/@Fanconma)
 </div>
 
 > [!important]
